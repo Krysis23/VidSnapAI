@@ -1,0 +1,16 @@
+file '1766299803386.jpg'
+duration 1
+file '1766299803515.jpg'
+duration 1
+file '1766299803622.jpg'
+duration 1
+file '1766299803545.jpg'
+duration 1
+file '1766299803545.jpg'
+duration 1
+file '1766299803595.jpg'
+duration 1
+file '1766299803856.jpg'
+duration 1
+file '1766299803778.jpg'
+duration 1

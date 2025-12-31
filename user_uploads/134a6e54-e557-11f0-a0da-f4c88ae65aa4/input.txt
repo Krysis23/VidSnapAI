@@ -1,0 +1,6 @@
+file 'NUMBER.png'
+duration 1
+file 'TROPHY.png'
+duration 1
+file 'photo.jpeg'
+duration 1
